@@ -1,0 +1,4 @@
+GET http://localhost:3000/players
+
+### API 2
+GET http://localhost:3000/players/5/
